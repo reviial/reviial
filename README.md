@@ -1,6 +1,6 @@
-i'm reviial  
-pronounces: he/his  
-develop on python and html/css  
+🙌 i'm reviial  
+❓ any pronouns  
+⌨️ develop on python and html/css  
 yes  
 
 <!---
